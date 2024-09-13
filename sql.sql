@@ -1,0 +1,1 @@
+SELECT * FROM SCSU_CSC235_Spring_2023.mashrakeys2;
